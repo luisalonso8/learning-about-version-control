@@ -1,4 +1,2 @@
 # learning-about-version-control
-
-
-by: Luis Alvarez
+Solving merge conflicts is so easy!!!
