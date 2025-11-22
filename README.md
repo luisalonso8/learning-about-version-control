@@ -1,3 +1,3 @@
-# learning-about-version-control
-I like version control because it helps me avoid losing work and track changes. Also it gives me order in my projects.
-I find version control challenging when I forget which branch I am working on. Like now!!!
+## My Opinions  
+I like that version control helps me keep track of changes and collaborate easily.  
+I find it frustrating when merge conflicts happen or when I forget certain commands.
